@@ -1,6 +1,6 @@
 # MAEDQN for EDDJSP
 # # Introduction
-  Dear readers, thank you for your esteemed visit. This repository will share the full code of the paper ''Multi-objective Optimization of Energy-Efficient Dynamic Distributed Job Shop by Multi-agent Expected Deep Q-network'' after it is accepted by the reviewing journal. In the following section, we will describe the content of these code files in detail.
+  Dear readers, thank you for your esteemed visit. This repository will share the full code of the paper ''Multi-objective Optimization of Energy-Efficient Dynamic Distributed Job Shop by Multi-agent Expected Deep Q-network'' after it is accepted by the reviewing journal. In the following section, we describe the content of these code files in detail.
 # # # Description of code files
 # # # # Code files in the folder ''drl''
 1. Energy_efficient_distributed_job_shop.py. It is used for establishing an energy-efficient dynamic distributed job shop scheduling environment. This environment contains the updating function of state features, the action functions of G-agent, S-agent, and D-agent, and the scheduling function.
