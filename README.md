@@ -11,10 +11,10 @@
 6. Energy_efficient_distributed_job_shop_P.py. It has a structure similar to the "Energy_efficient_distributed_job_shop.py", but contains all combined priority dispatching rules (PDRs).
 7. Priority_dispatching_rule.py. It owns the similar structure and function with ''Composite_rule.py'' and is utilized for evaluating combined PDRs.
 8. As for other code files namely MADQN.py, MADDQN.py, MARL_C.py, MARL_W.py, MARL_H.py, they are the comparative algorithms in Section 6.3.3.
-# # # # Code files in the folder ''metaheuristics''
-1.Energy_efficient_distributed_job_shop_Luo. It is used for establishing an energy-efficient dynamic distributed job shop scheduling environment. This environment contains the information updating function. The structure and function of Energy_efficient_distributed_job_shop_Gong.py is similar to it.
+# # # # Code files in the folder ''metaheuristics'
+1. Energy_efficient_distributed_job_shop_Luo. It is used for establishing an energy-efficient dynamic distributed job shop scheduling environment. This environment contains the information updating function. The structure and function of Energy_efficient_distributed_job_shop_Gong.py is similar to it.
 2. Encode_Luo.py and Encode_Gong.py. They contain the ''encode'' class and are used for generating the initial population.
-3. Decode_Luo.py and Decode_Gong.py. They include the ''decode'' class and are responsible for decoding the chromosomes of the population. 
+3. Decode_Luo.py and Decode_Gong.py. They include the ''decode'' class and are responsible for decoding the chromosomes of the population.
 4. Job_Luo.py and Job_Gong.py. They are used for creating the job objects and contain the functions for inputting and deleting information.
 5. Machine_Luo.py and Machine_Gong.py. They are used for creating machine objects and contain the functions for inputting and deleting information.
 6. Job_creator.py. It is responsible for generating instances under different production configurations.
